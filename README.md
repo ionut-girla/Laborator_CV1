@@ -18,3 +18,8 @@ A nu se genera gauri cu threshold. Se poate face segmentarea pt toate pozele cua
   #### A se diferentia cat mai mult imaginile din fiecare gest
 
 https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.html
+
+
+
+Laborator viitor:
+de pus trasaturile in vector
