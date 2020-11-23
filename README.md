@@ -23,3 +23,16 @@ https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.html
 
 Laborator viitor:
 de pus trasaturile in vector
+
+
+
+///////////
+
+algoritm mai bun pt schetet: thin
+scapat de blur: threshold sau parcurgere matrice + dilatare + eroziune
+
+#hog pe date 
+#augmentare set de date + PCA
+#grid search pt rezultat optim
+#algoritmi genetici pt rezultat optim automat
+
